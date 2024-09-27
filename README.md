@@ -1,6 +1,3 @@
-<h1>Hello there 💤</h1>
-
-<p>This person is either coding or sleeping</p>
 <img src="https://media1.giphy.com/media/JT2KGdq7TLd2L6W6y7/200w.gif" style="height=50px;width=50px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=echosns&label=Profile%20views&color=0e75b6&style=flat" alt="echosns" /> </p>
