@@ -1,6 +1,4 @@
 <img src="https://media1.giphy.com/media/JT2KGdq7TLd2L6W6y7/200w.gif" style="height=50px;width=50px;">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=echosns&label=Profile%20views&color=0e75b6&style=flat" alt="echosns" /> </p>
 <!--
 **EchoSNS/EchoSNS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
